@@ -1,5 +1,5 @@
 title = "Jason Blog"
-baseURL = "https://thirsty-jennings-7cd5fc.netlify.com/"
+baseURL = "https://jasonblog.netlify.com/"
 theme = "bilberry-hugo-theme"
 
 enableRobotsTXT = true
