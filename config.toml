@@ -1,4 +1,4 @@
-title = "My cool new Blog"
+title = "Jason Blog"
 baseURL = "https://example.com"
 theme = "bilberry-hugo-theme"
 
@@ -36,27 +36,27 @@ disqusShortname = "bilberry-hugo-theme"
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Hello World! This is the most epic subtitle ever."
+    subtitle = "그냥 끄적이는 공간"
 
     # if you want to use gravatar for the header image
     gravatarEMail = ""
 
     # set an path to the image file you want to use | overwrites gravatar
-    customImage = ""
+    customImage = "https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-1/p320x320/40003555_2081679738562964_2852967167790415872_n.jpg?_nc_cat=0&oh=1ebe95f3fe5237b101d46edf1ac34e35&oe=5C057043"
 
     # always display the top navigation (with pages and search) on non-mobile screens
     permanentTopNav = false
 
   # social media profile urls for the footer links
-  facebook   = ""
-  twitter    = "https://twitter.com/TheRealLednerb"
+  facebook   = "https://www.facebook.com/jung.hyeonsun"
+  twitter    = ""
   googleplus = ""
   pinterest  = ""
-  instagram  = ""
+  instagram  = "https://www.instagram.com/jasonstagram__/?hl=ko"
   tumblr     = ""
   youtube    = ""
   vimeo      = ""
-  github     = "https://github.com/Lednerb"
+  github     = "https://github.com/Jasonarea"
 
 # don't change anything here
 [taxonomies]
