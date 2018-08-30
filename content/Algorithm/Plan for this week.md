@@ -2,9 +2,8 @@
 title: "Plan For this week (8/31 ~ 9/2)"
 date: 2018-08-28
 
-featuredImage: "https://user-images.githubusercontent.com/23074069/44694395-3712b280-aaa8-11e8-86d5-91abcb974264.png"
 categories: []
-tags: []
+tags: ["Plan"]
 author: "Jason Jung"
 ---
 ### 8월 31일 금요일
