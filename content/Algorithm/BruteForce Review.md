@@ -26,7 +26,7 @@ author: "Jason Jung"
 
     For문을 N번 중첩하여 하는 가장 무식한 방법으로 시간복잡도가 어마어마하다
 
-2. 순열 (next_permutation / prev_permutation)
+2  순열 (next_permutation / prev_permutation)
 
         순열에서 다음 순열을 도출하는 과정
         1)  A[i-1] < A[i]를 만족하는 가장 큰 i를 찾는다.
@@ -35,7 +35,7 @@ author: "Jason Jung"
         4)  A[i]부터 순열을 뒤집는다.
         Baekjoon : 다음순열, 이전순열, 모든순열, 팩토리얼, 차이를 최대로, 부등호, 단어 수학, 외판원순회2, 로또, 연산자 끼워넣기, 스타트와 링크
 
-3. 비트마스크
+3  비트마스크
 
         1) 0이 포함되어있는지 검사 : 570 & (1<<0)
         2) 1 추가하기 : 570 | (1<<1)
@@ -45,12 +45,12 @@ author: "Jason Jung"
         6)  공집합. : 0
         Baekjoon: 집합, 부분집합의 합, 스타트와 링크, 종이 조각, 가르침, 구슬탈출2, 2048(Easy)
         
-4. 일부 경우만 해보기 (Two Pointers Algorithm)
+4  일부 경우만 해보기 (Two Pointers Algorithm)
 : 모든 경우 다해보기와 다르게 절대 정답이 되지 않는 경우는 확인하지 않을 수 있다.
 
         Baekjoon : 수들의 합 2, 부분합, 소수의 연속합
         
-5. 중간에서 만나기 (Meet in the middle)
+5  중간에서 만나기 (Meet in the middle)
         
         1) 문제를 절반으로 나눈다.
         2) 양쪽 절반에서 모든 경우를 다 해보는 방법이다.
