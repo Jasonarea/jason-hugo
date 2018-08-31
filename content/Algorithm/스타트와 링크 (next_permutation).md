@@ -1,5 +1,5 @@
 ---
-title: "BruteForce Review"
+title: "Baekjoon_14889 스타트와링크 (next_permutation)"
 date: 2018-08-31
 
 featuredImage: "images/start and link.png"
