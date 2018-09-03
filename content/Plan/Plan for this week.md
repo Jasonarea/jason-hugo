@@ -1,6 +1,6 @@
 ---
-title: "Plan For this week (8/31 ~ 9/2)"
-date: 2018-08-30
+title: "Plan For this week"
+date: 2018-09-03
 
 categories: []
 tags: ["Plan"]
