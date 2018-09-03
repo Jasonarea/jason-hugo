@@ -9,20 +9,23 @@ author: "Jason Jung"
 ---
 ### Baekjoon 1759 암호만들기
 문제 설명 : L길이의 암호를 만들고 싶다. 주어진 알파벳은 6개의 알파벳이 주어진다. 가능한 암호를 모두 출력하는 문제
+
 **암호의조건** 
+
 1. 암호는 반드시 정렬이 되어있어야한다.
-   - 입력을 받을 때 벡터로 입력받아 sorting을 한다.
+- 입력을 받을 때 벡터로 입력받아 sorting을 한다.
 2. 암호에는 반드시 자음 2개와 모음 1개가 포함되어 있어야한다.
-   - check 함수를 만들어 password에 자음 2개와 모음 1개가 포함되어있는지 확인한다.
-   
+- check 함수를 만들어 password에 자음 2개와 모음 1개가 포함되어있는지 확인한다.
+
 **Backtracking 재귀문제 풀이**
 - 가능한경우 , 불가능한경우, 다음경우 이 세가지만 기억하자
+
 1. 가능한 경우 : password.length() == L 이 되었을 때 password를 출력 후 return 해준다.
 2. 불가능한 경우 : alpha.size() <= i (i는 현재까지 만들어진 password의 길이) 가 되었을 때 return 해준다.
 3. 다음 경우 : go(n, alpha, password + alpha[i], i+1) --> 다음 알파벳을 포함하는 경우
-                     go(n, alpha, password, i+1) --> 다음 알파벳을 포함하지 않는 경우
-                     
-    
+go(n, alpha, password, i+1) --> 다음 알파벳을 포함하지 않는 경우
+
+
 [Source Code] 
 
     #include <iostream>
