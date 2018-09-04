@@ -4,7 +4,7 @@ date: 2018-09-03
 
 featuredImage: "images/start and link.png"
 categories: ["Backtracking"]
-tags: ["Algorithm", "Backtracking", "Baekjoon"]
+tags: ["Algorithm", "Backtracking", "Baekjoon", "BruteForce"]
 author: "Jason Jung"
 ---
 ### Baekjoon 14889 스타트와 링크

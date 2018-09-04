@@ -4,7 +4,7 @@ date: 2018-09-03
 
 featuredImage: "images/nqueen.png"
 categories: ["Backtracking"]
-tags: ["Algorithm", "Backtracking", "Baekjoon"]
+tags: ["Algorithm", "Backtracking", "Baekjoon", "BruteForce"]
 author: "Jason Jung"
 ---
 Backjoon 9663 N-Queen

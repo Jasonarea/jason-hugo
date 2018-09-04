@@ -4,7 +4,7 @@ date: 2018-09-03
 
 featuredImage: "images/solve.png"
 categories: ["Backtracking"]
-tags: ["Algorithm", "Backtracking", "Baekjoon"]
+tags: ["Algorithm", "Backtracking", "Baekjoon", "BruteForce"]
 author: "Jason Jung"
 ---
 ### Baekjoon 1248 맞춰봐
